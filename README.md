@@ -7,4 +7,4 @@ Aktuelle Projekte:
 - Einfacher Webcrawler (Perl)
   Aktuell noch relativ unübersichtlich und nutzlos :D
   
-  __Versuche demnächst, subroutines für bessere Übersichtlichkeit hinzuzufügen__
+  *Versuche demnächst, subroutines für bessere Übersichtlichkeit hinzuzufügen*
